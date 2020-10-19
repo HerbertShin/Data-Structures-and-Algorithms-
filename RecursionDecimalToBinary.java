@@ -5,7 +5,7 @@
  */
 
 /**
- * @author herbs
+ * @author Herbert Shin
  */
 
 import com.sun.jdi.IntegerType;
