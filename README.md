@@ -7,6 +7,7 @@ A recursive algorithm is implemented into an array list to convert from decimal 
 # DoublyLinkedListProjects - LinearSearchAndSort
 The user is asked to input any amount of numbers which is stored and sorted in an array list. The array list is then converted into a doubly linked list allowing for any need to linearly traverse through the list.
 
-
+# PriorityQueue
+Implemented a priority queue to create a clinic entry registration system. The user is asked a series of prompts to input a name, urgency(regular visit/emergency), and if it is an emergency then the user is asked to rate the emergency from a scale of 1-10. The program then uses a comparator to compare key values of the patients who inputted their visit as an emergency. The patient with an emergency is immediately placed ahead of patients with a regular visit and each emergency is sorted in the queue aswell. After a patient registers, the time is logged where regular patients can be then sorted using times of registration. 
 
 
